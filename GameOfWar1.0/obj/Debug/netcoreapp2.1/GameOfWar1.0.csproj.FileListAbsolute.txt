@@ -1,0 +1,11 @@
+/Users/KhalilS/RiderProjects/GameOfWar1.0/GameOfWar1.0/bin/Debug/netcoreapp2.1/GameOfWar1.0.deps.json
+/Users/KhalilS/RiderProjects/GameOfWar1.0/GameOfWar1.0/bin/Debug/netcoreapp2.1/GameOfWar1.0.runtimeconfig.json
+/Users/KhalilS/RiderProjects/GameOfWar1.0/GameOfWar1.0/bin/Debug/netcoreapp2.1/GameOfWar1.0.runtimeconfig.dev.json
+/Users/KhalilS/RiderProjects/GameOfWar1.0/GameOfWar1.0/bin/Debug/netcoreapp2.1/GameOfWar1.0.dll
+/Users/KhalilS/RiderProjects/GameOfWar1.0/GameOfWar1.0/bin/Debug/netcoreapp2.1/GameOfWar1.0.pdb
+/Users/KhalilS/RiderProjects/GameOfWar1.0/GameOfWar1.0/obj/Debug/netcoreapp2.1/GameOfWar1.0.csprojAssemblyReference.cache
+/Users/KhalilS/RiderProjects/GameOfWar1.0/GameOfWar1.0/obj/Debug/netcoreapp2.1/GameOfWar1.0.csproj.CoreCompileInputs.cache
+/Users/KhalilS/RiderProjects/GameOfWar1.0/GameOfWar1.0/obj/Debug/netcoreapp2.1/GameOfWar1.0.AssemblyInfoInputs.cache
+/Users/KhalilS/RiderProjects/GameOfWar1.0/GameOfWar1.0/obj/Debug/netcoreapp2.1/GameOfWar1.0.AssemblyInfo.cs
+/Users/KhalilS/RiderProjects/GameOfWar1.0/GameOfWar1.0/obj/Debug/netcoreapp2.1/GameOfWar1.0.dll
+/Users/KhalilS/RiderProjects/GameOfWar1.0/GameOfWar1.0/obj/Debug/netcoreapp2.1/GameOfWar1.0.pdb

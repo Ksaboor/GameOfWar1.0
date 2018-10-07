@@ -1,0 +1,14 @@
+/Users/KhalilS/RiderProjects/GameOfWar1.0/TestGameOfWar.UnitTest/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/KhalilS/RiderProjects/GameOfWar1.0/TestGameOfWar.UnitTest/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/KhalilS/RiderProjects/GameOfWar1.0/TestGameOfWar.UnitTest/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/KhalilS/RiderProjects/GameOfWar1.0/TestGameOfWar.UnitTest/bin/Debug/netcoreapp2.1/TestGameOfWar.UnitTest.deps.json
+/Users/KhalilS/RiderProjects/GameOfWar1.0/TestGameOfWar.UnitTest/bin/Debug/netcoreapp2.1/TestGameOfWar.UnitTest.runtimeconfig.json
+/Users/KhalilS/RiderProjects/GameOfWar1.0/TestGameOfWar.UnitTest/bin/Debug/netcoreapp2.1/TestGameOfWar.UnitTest.runtimeconfig.dev.json
+/Users/KhalilS/RiderProjects/GameOfWar1.0/TestGameOfWar.UnitTest/bin/Debug/netcoreapp2.1/TestGameOfWar.UnitTest.dll
+/Users/KhalilS/RiderProjects/GameOfWar1.0/TestGameOfWar.UnitTest/bin/Debug/netcoreapp2.1/TestGameOfWar.UnitTest.pdb
+/Users/KhalilS/RiderProjects/GameOfWar1.0/TestGameOfWar.UnitTest/obj/Debug/netcoreapp2.1/TestGameOfWar.UnitTest.csprojAssemblyReference.cache
+/Users/KhalilS/RiderProjects/GameOfWar1.0/TestGameOfWar.UnitTest/obj/Debug/netcoreapp2.1/TestGameOfWar.UnitTest.csproj.CoreCompileInputs.cache
+/Users/KhalilS/RiderProjects/GameOfWar1.0/TestGameOfWar.UnitTest/obj/Debug/netcoreapp2.1/TestGameOfWar.UnitTest.AssemblyInfoInputs.cache
+/Users/KhalilS/RiderProjects/GameOfWar1.0/TestGameOfWar.UnitTest/obj/Debug/netcoreapp2.1/TestGameOfWar.UnitTest.AssemblyInfo.cs
+/Users/KhalilS/RiderProjects/GameOfWar1.0/TestGameOfWar.UnitTest/obj/Debug/netcoreapp2.1/TestGameOfWar.UnitTest.dll
+/Users/KhalilS/RiderProjects/GameOfWar1.0/TestGameOfWar.UnitTest/obj/Debug/netcoreapp2.1/TestGameOfWar.UnitTest.pdb
