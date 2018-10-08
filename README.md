@@ -35,9 +35,12 @@
 # Game
 
 # Deck
-    When creating a deck class.
-    I decided to create a queue to represent
-    a structre of a deck playing cards.
+    To get a representation of playing
+    cards. I created a queue to hold a multiple 
+    decks of cards and created a Enqueue method
+    to place multiple cards in each stop in the queue.
     
-    To get the full implementation of playing
-    cards we   
+    When it came to shuffling the cards
+    I found out C# doesn't have a Shuffle method.
+    Unlike C#. So I use the Fisher-Yates Methods.
+     

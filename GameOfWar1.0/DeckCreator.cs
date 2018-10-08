@@ -1,5 +1,7 @@
+
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace GameOfWar1._0
 {
@@ -14,14 +16,37 @@ namespace GameOfWar1._0
                 {
                     cards.Enqueue(new Card()
                         {
-                        suit = suit
-                        Value = i
-                        DisplayName = GetShortName(i, suit)
+                        suit = suit,
+                        Value = i,
                         });
                 }
             }
 
             return Shuffle(cards);
+        }
+
+        private static Queue<Card> Shuffle(Queue<Card> cards)
+        {
+            //Shuffle the existing cards using Fisher-Yates Modern
+            List<Card> transformedCards = cards.ToList();
+            Random r = new Random(DateTime.Now.Millisecond);
+            for (int i = transformedCards.Count - 1; i >= 0; --i)
+            {
+                //Randomly  pick a card which has not been shuffled
+                int k = r.Next(i + 1);
+                
+                //Swap the selected item with the last "unselected" card in the Collection
+                Card temp = transformedCards[i];
+                transformedCards[i] = transformedCards[k];
+                transformedCards[k] = temp;
+            }
+            Queue<Card> shuffleCards = new Queue<Card>();
+            foreach (var card in transformedCards)
+            {
+                shuffleCards.Enqueue(card);
+            }
+
+            return shuffleCards;
         }
     }
 }
