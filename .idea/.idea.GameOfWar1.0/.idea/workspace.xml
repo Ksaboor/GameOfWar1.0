@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0653f152-4a81-49ad-a642-5593de557dfb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GameOfWar1.0/Card.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameOfWar1.0/DeckCreator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameOfWar1.0/Extensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameOfWar1.0/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameOfWar1.0/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameOfWar1.0/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GameOfWar1.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameOfWar1.0/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestGameOfWar.UnitTest/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestGameOfWar.UnitTest/UnitTest1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfWar1.0/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GameOfWar1.0/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,78 +27,123 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="2" />
-          <entry key="gitignore" value="3" />
+          <entry key="DotSettings" value="1" />
+          <entry key="cs" value="11" />
+          <entry key="gitignore" value="4" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="2" />
-          <entry key="Git file" value="3" />
+          <entry key="C#" value="11" />
+          <entry key="Git file" value="4" />
           <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="21" />
+          <entry key="cs" value="2115" />
+          <entry key="md" value="1033" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="21" />
+          <entry key="C#" value="2115" />
+          <entry key="Markdown" value="1033" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="GameOfWar1.0" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GameOfWar1.0/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="135">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
               <folding>
-                <marker date="1538777907000" expanded="true" signature="38:179" ph="{...}" />
-                <marker date="1538777907000" expanded="true" signature="58:177" ph="{...}" />
-                <marker date="1538777907000" expanded="true" signature="104:171" ph="{...}" />
+                <marker date="1538959299000" expanded="true" signature="38:237" ph="{...}" />
+                <marker date="1538959299000" expanded="true" signature="58:235" ph="{...}" />
+                <marker date="1538959299000" expanded="true" signature="92:138" ph="{...}" />
+                <marker date="1538959299000" expanded="true" signature="196:229" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameOfWar1.0/Card.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <marker date="1538960407000" expanded="true" signature="23:301" ph="{...}" />
+                <marker date="1538960407000" expanded="true" signature="46:122" ph="{...}" />
+                <marker date="1538960407000" expanded="true" signature="144:299" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameOfWar1.0/Player.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding>
+                <marker date="1538961197000" expanded="true" signature="58:327" ph="{...}" />
+                <marker date="1538961197000" expanded="true" signature="84:325" ph="{...}" />
+                <marker date="1538961197000" expanded="true" signature="99:223" ph="/* Will have two properties ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameOfWar1.0/Extensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+              <folding>
+                <marker date="1538961842000" expanded="true" signature="58:318" ph="{...}" />
+                <marker date="1538961842000" expanded="true" signature="95:316" ph="{...}" />
+                <marker date="1538961842000" expanded="true" signature="182:310" ph="{...}" />
+                <marker date="1538961842000" expanded="true" signature="235:300" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameOfWar1.0/DeckCreator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+              <folding>
+                <marker date="1538962396000" expanded="true" signature="6:47" ph="..." />
+                <marker date="1538962396000" expanded="true" signature="72:682" ph="{...}" />
+                <marker date="1538962396000" expanded="true" signature="110:680" ph="{...}" />
+                <marker date="1538962396000" expanded="true" signature="163:674" ph="{...}" />
+                <marker date="1538962396000" expanded="true" signature="267:628" ph="{...}" />
+                <marker date="1538962396000" expanded="true" signature="349:614" ph="{...}" />
+                <marker date="1538962396000" expanded="true" signature="437:594" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TestGameOfWar.UnitTest/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestGameOfWar.UnitTest/UnitTest1.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-              <folding>
-                <marker date="1538875767000" expanded="true" signature="6:26" ph="..." />
-                <marker date="1538875767000" expanded="true" signature="60:179" ph="{...}" />
-                <marker date="1538875767000" expanded="true" signature="89:177" ph="{...}" />
-                <marker date="1538875767000" expanded="true" signature="138:171" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="192">
-                <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <first_editor relative-caret-position="435">
+                <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
               </first_editor>
               <second_editor />
             </state>
@@ -106,12 +157,30 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/TestGameOfWar.UnitTest/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameOfWar1.0/Card.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameOfWar1.0/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameOfWar1.0/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameOfWar1.0/DeckCreator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameOfWar1.0/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/TestGameOfWar.UnitTest/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/GameOfWar1.0/CardGame.cs" />
+        <option value="$PROJECT_DIR$/GameOfWar1.0/CardDeck.cs" />
+        <option value="$PROJECT_DIR$/GameOfWar1.0/card/card/Card.cs" />
+        <option value="$PROJECT_DIR$/GameOfWar1.0/card/Card.cs" />
+        <option value="$PROJECT_DIR$/GameOfWar1.0/cardImage/Face.cs" />
+        <option value="$PROJECT_DIR$/GameOfWar1.0/cardImage/Suit.cs" />
+        <option value="$PROJECT_DIR$/GameOfWar1.0/card/CardGame.cs" />
+        <option value="$PROJECT_DIR$/GameOfWar1.0/card/CardDeck.cs" />
+        <option value="$PROJECT_DIR$/GameOfWar1.0/Program.cs" />
+        <option value="$PROJECT_DIR$/GameOfWar1.0/Card.cs" />
+        <option value="$PROJECT_DIR$/GameOfWar1.0/Player.cs" />
+        <option value="$PROJECT_DIR$/GameOfWar1.0/Extensions.cs" />
+        <option value="$PROJECT_DIR$/GameOfWar1.0/DeckCreator.cs" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -145,22 +214,6 @@
               <item name="GameOfWar1.0" type="24d0babc:SolutionExplorerModelNode" />
               <item name="GameOfWar1.0" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="GameOfWar1.0" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TestGameOfWar.UnitTest" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="GameOfWar1.0" type="24d0babc:SolutionExplorerModelNode" />
-              <item name=".idea" type="9a108dff:SolutionExplorerFileNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="GameOfWar1.0" type="24d0babc:SolutionExplorerModelNode" />
-              <item name=".idea" type="9a108dff:SolutionExplorerFileNode" />
-              <item name=".idea.GameOfWar1.0" type="9a108dff:SolutionExplorerFileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -175,6 +228,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -226,12 +280,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538777885129</updated>
-      <workItem from="1538777886906" duration="1439000" />
+      <workItem from="1538777886906" duration="12478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1439000" />
+    <option name="totallyTimeSpent" value="12478000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -244,30 +298,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" visible="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32876712" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Favorites" order="0" sideWeight="0.50547945" side_tool="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49452055" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="2" sideWeight="0.5020408" side_tool="true" weight="0.24959612" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.32876712" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" weight="0.32876712" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Errors In Solution" order="1" weight="0.32956383" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,19 +348,57 @@
     <entry file="file://$PROJECT_DIR$/GameOfWar1.0/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="192">
-            <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/TestGameOfWar.UnitTest/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfWar1.0/GameOfWar1.0.csproj.DotSettings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfWar1.0/card/Card.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfWar1.0/cardImage/Suit.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfWar1.0/card/CardGame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfWar1.0/card/CardDeck.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="43" column="48" lean-forward="true" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfWar1.0/cardImage/Face.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestGameOfWar.UnitTest/UnitTest1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="150">
           <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
           <folding>
             <marker date="1538875767000" expanded="true" signature="6:26" ph="..." />
@@ -317,20 +411,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GameOfWar1.0/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="135">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding>
-            <marker date="1538777907000" expanded="true" signature="38:179" ph="{...}" />
-            <marker date="1538777907000" expanded="true" signature="58:177" ph="{...}" />
-            <marker date="1538777907000" expanded="true" signature="104:171" ph="{...}" />
+            <marker date="1538959299000" expanded="true" signature="38:237" ph="{...}" />
+            <marker date="1538959299000" expanded="true" signature="58:235" ph="{...}" />
+            <marker date="1538959299000" expanded="true" signature="92:138" ph="{...}" />
+            <marker date="1538959299000" expanded="true" signature="196:229" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestGameOfWar.UnitTest/.gitignore">
+    <entry file="file://$PROJECT_DIR$/GameOfWar1.0/Card.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <marker date="1538960407000" expanded="true" signature="23:301" ph="{...}" />
+            <marker date="1538960407000" expanded="true" signature="46:122" ph="{...}" />
+            <marker date="1538960407000" expanded="true" signature="144:299" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfWar1.0/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <marker date="1538961197000" expanded="true" signature="58:327" ph="{...}" />
+            <marker date="1538961197000" expanded="true" signature="84:325" ph="{...}" />
+            <marker date="1538961197000" expanded="true" signature="99:223" ph="/* Will have two properties ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfWar1.0/Extensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <marker date="1538961842000" expanded="true" signature="58:318" ph="{...}" />
+            <marker date="1538961842000" expanded="true" signature="95:316" ph="{...}" />
+            <marker date="1538961842000" expanded="true" signature="182:310" ph="{...}" />
+            <marker date="1538961842000" expanded="true" signature="235:300" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfWar1.0/DeckCreator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <marker date="1538962396000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1538962396000" expanded="true" signature="72:682" ph="{...}" />
+            <marker date="1538962396000" expanded="true" signature="110:680" ph="{...}" />
+            <marker date="1538962396000" expanded="true" signature="163:674" ph="{...}" />
+            <marker date="1538962396000" expanded="true" signature="267:628" ph="{...}" />
+            <marker date="1538962396000" expanded="true" signature="349:614" ph="{...}" />
+            <marker date="1538962396000" expanded="true" signature="437:594" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="435">
+            <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
