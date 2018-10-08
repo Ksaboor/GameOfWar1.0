@@ -33,7 +33,7 @@ namespace GameOfWar1._0
 
             Console.WriteLine(Player1.Name + " plays " + player1card+ ", " + Player2.Name + " plays " + player2card);
 
-            while (player1card.Value == player2card.Value)
+            while (player1card.value == player2card.value)
             {
                 Console.WriteLine("WAR!");
                 if (Player1.Deck.Count < 4)
@@ -63,15 +63,15 @@ namespace GameOfWar1._0
                 Console.WriteLine(Player1.Name + " plays " + player1card + ", " + Player2.Name + " plays " + player2card);
             }
 
-            if(player1card.Value < player2card.Value)
+            if(player1card.value < player2card.value)
             {
                 Player2.Deck.Enqueue(pool);
-                Console.WriteLine(Player2.Name + " takes the hand!");
+                Console.WriteLine(Player2.Name + " Wins this hand!");
             }
             else
             {
                 Player1.Deck.Enqueue(pool);
-                Console.WriteLine(Player1.Name + " takes the hand!");
+                Console.WriteLine(Player1.Name + " Wins this hand!");
             }
 
             TurnCount++;
@@ -79,7 +79,7 @@ namespace GameOfWar1._0
 
         public bool IsGameOver()
         {
-            string win = " Has won the march!!!!";
+            string win = " Has won the match!!!!";
             string cards = " is out of cards ";
             
             if (!Player1.Deck.Any())

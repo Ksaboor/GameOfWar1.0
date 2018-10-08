@@ -6,13 +6,13 @@ namespace GameOfWar1._0
     {
         static void Main(string[] args)
         {
-//            Game game = new Game("Khalil"," Bob");
-//            while (!game.IsEndOfGame())
-//            {
-//                game.PlayTurn();
-//            }
-//
-//            Console.Read();
+            Game game = new Game("Khalil","Deacom");
+            while (!game.IsGameOver())
+            {
+                game.PlayTurn();
+            }
+
+            Console.Read();
         }
     }
 }

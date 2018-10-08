@@ -14,15 +14,15 @@ namespace GameOfWar1._0
          */
         {
             Queue<Card> cards = new Queue<Card>();
-            for (int i = 2; i <= 14 ; i++)
+            for (int i = 2; i <=  14 ; i++)
             {
                 
                 foreach (Suit suit in Enum.GetValues(typeof(Suit)))
                 {
-                    cards.Enqueue(new Card()
+                    cards.Enqueue(new Card(suit,i)
                         {
                         suit = suit,
-                        Value = i
+                        value = i
                         });
                 }
             }

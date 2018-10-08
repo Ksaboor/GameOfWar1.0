@@ -1,7 +1,9 @@
 # Objective
     Provide a set of code on how you would design a
     detail version of the classic card game of war
-    
+# The OutCome
+ * Inputs: This program does not ask use for any input.
+ * Output: The winner of War card game.
 # War
     
 * Each player gets half a shuffled deck of cards
@@ -25,9 +27,8 @@
     CardImg: Unicode ♠
    
 # Card
-    Created an Enum of Suits,
-    A String call "Displayname",
-    and a value for each card.
+    Created a int of value and suit
+    if or switch to append Value to rank
     
 # Player
     I created a string call name 
