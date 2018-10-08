@@ -17,7 +17,8 @@ namespace GameOfWar1._0
         /** Will have two properties 
          * 1. name
          * 2. A Collection of Cards
-         *     Queue  FIFO 
+         *     Queue  FIFO
+         *     Deal method Deal cards to Player1 and Player2.
          */
 
         public Queue<Card> Deal(Queue<Card> cards)

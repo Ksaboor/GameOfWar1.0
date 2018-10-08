@@ -11,7 +11,7 @@
         <e p=".gitignore" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Card.cs" t="Include" />
-        <e p="DeckCreator.cs" t="Include" />
+        <e p="DeckGenerator.cs" t="Include" />
         <e p="Extensions.cs" t="Include" />
         <e p="Game.cs" t="Include" />
         <e p="GameOfWar1.0.csproj" t="IncludeRecursive" />
