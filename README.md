@@ -33,7 +33,8 @@
     I created a string call name 
     and and a queue of Decks.
 # Game
-
+        To model the game we create two players
+        and a deck of cards.
 # Deck
     To get a representation of playing
     cards. I created a queue to hold a multiple 

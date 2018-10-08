@@ -8,7 +8,6 @@ namespace TestGameOfWar.UnitTest
         [Fact]
         public void Test1()
         {
-            
         }
     }
 }
